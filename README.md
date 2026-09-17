@@ -1,1 +1,2 @@
-# exercicioAtualizado-git-17-09-2026
+# chore: seed exercício HTML/CSS/JS
+
